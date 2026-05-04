@@ -2,7 +2,8 @@
 
 # 👋 Olá, eu sou Kevin Kilmer
 
-### Desenvolvedor em formação | Full Stack Web Development | Sistemas para Internet
+### 🎓 Graduado em Sistemas para Internet  
+### 🚀 Desenvolvedor Full Stack | APIs REST | BI com Metabase
 
 </div>
 
@@ -10,22 +11,24 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas para Internet** e apaixonado por tecnologia, desenvolvimento de software e solução de problemas através da programação.
+Sou desenvolvedor com foco em **aplicações web modernas**, atuando principalmente com **APIs REST**, integração de sistemas e análise de dados.
 
-Atualmente estou focado em evoluir como desenvolvedor **Full Stack**, estudando tecnologias modernas do ecossistema web, principalmente:
+Atualmente trabalho com:
 
-- Java com Spring Boot
-- ReactJS
-- JavaScript e TypeScript
-- Banco de dados SQL
-- Python
-- Boas práticas de desenvolvimento
+- Desenvolvimento de **APIs REST** com boas práticas
+- Integração entre sistemas (back-end e serviços externos)
+- Criação de dashboards e análises com **Metabase**
+- Modelagem e consulta em bancos de dados relacionais
 
-Busco constantemente novos desafios, aprendizado contínuo e evolução profissional na área de tecnologia.
+Também estou aprofundando meus estudos em:
+
+- 🤖 Inteligência Artificial aplicada ao desenvolvimento
+- 🧠 Engenharia de Prompts (Prompt Engineering)
+- 🔐 Segurança da Informação
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Stack & Tecnologias
 
 <div align="center">
 
@@ -36,11 +39,14 @@ Busco constantemente novos desafios, aprendizado contínuo e evolução profissi
 <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+
+<!-- Metabase (custom icon) -->
+<img alt="Metabase" height="40" src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg">
 
 </div>
 
@@ -50,26 +56,24 @@ Busco constantemente novos desafios, aprendizado contínuo e evolução profissi
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kkilmer&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kkilmer&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkilmer&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkilmer&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🎯 Objetivo profissional
+## 🎯 Foco Profissional
 
-Meu objetivo é me tornar um desenvolvedor cada vez mais completo, criando aplicações web modernas, seguras, organizadas e úteis para resolver problemas reais.
+Atualmente direcionando minha carreira para:
 
-Tenho interesse especial em:
-
-- Desenvolvimento Backend com Java e Spring Boot
-- Desenvolvimento Frontend com React
-- Banco de dados e modelagem
-- APIs REST
-- Segurança da Informação
-- Ciência de Dados
+- Desenvolvimento de sistemas escaláveis com **Java + Spring Boot**
+- Arquitetura e construção de **APIs REST**
+- Análise de dados e dashboards com **Metabase**
+- Integração entre sistemas corporativos
+- Aplicações com **Inteligência Artificial**
+- Engenharia de Prompts para automação e produtividade
 
 ---
 
@@ -77,7 +81,7 @@ Tenho interesse especial em:
 
 <div align="center">
 
-<a href="mailto:kp827767@gmail.com">
+<a href="mailto:kkilmer.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -95,6 +99,6 @@ Tenho interesse especial em:
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, evoluindo e construindo soluções com tecnologia.
+### 🚀 Construindo soluções, integrando sistemas e evoluindo com tecnologia todos os dias.
 
 </div>
