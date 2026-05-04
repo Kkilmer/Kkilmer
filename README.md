@@ -83,12 +83,3 @@ Atualmente focado em:
 
 </div>
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Construindo soluções reais com tecnologia todos os dias.
-
-</div>
