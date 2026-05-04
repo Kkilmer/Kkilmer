@@ -2,8 +2,7 @@
 
 # 👋 Olá, eu sou Kevin Kilmer
 
-### 🎓 Graduado em Sistemas para Internet  
-### 🚀 Desenvolvedor Full Stack | APIs REST | BI com Metabase
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=22&center=true&vCenter=true&width=700&lines=Graduado+em+Sistemas+para+Internet;Desenvolvedor+Full+Stack;APIs+REST+%7C+Metabase+%7C+BI;Estudando+IA+e+Engenharia+de+Prompts" />
 
 </div>
 
@@ -11,20 +10,18 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor com foco em **aplicações web modernas**, atuando principalmente com **APIs REST**, integração de sistemas e análise de dados.
+Sou desenvolvedor com foco em **aplicações web modernas**, atuando principalmente com:
 
-Atualmente trabalho com:
+- Desenvolvimento de **APIs REST**
+- Integração entre sistemas
+- Criação de dashboards com **Metabase**
+- Modelagem e consultas em banco de dados
 
-- Desenvolvimento de **APIs REST** com boas práticas
-- Integração entre sistemas (back-end e serviços externos)
-- Criação de dashboards e análises com **Metabase**
-- Modelagem e consulta em bancos de dados relacionais
+Atualmente estudando:
 
-Também estou aprofundando meus estudos em:
-
-- 🤖 Inteligência Artificial aplicada ao desenvolvimento
-- 🧠 Engenharia de Prompts (Prompt Engineering)
-- 🔐 Segurança da Informação
+- 🤖 Inteligência Artificial aplicada ao desenvolvimento  
+- 🧠 Engenharia de Prompts (Prompt Engineering)  
+- 🔐 Segurança da Informação  
 
 ---
 
@@ -44,21 +41,7 @@ Também estou aprofundando meus estudos em:
 <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-
-<!-- Metabase (custom icon) -->
 <img alt="Metabase" height="40" src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg">
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkilmer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkilmer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -66,14 +49,13 @@ Também estou aprofundando meus estudos em:
 
 ## 🎯 Foco Profissional
 
-Atualmente direcionando minha carreira para:
+Atualmente focado em:
 
-- Desenvolvimento de sistemas escaláveis com **Java + Spring Boot**
-- Arquitetura e construção de **APIs REST**
-- Análise de dados e dashboards com **Metabase**
-- Integração entre sistemas corporativos
-- Aplicações com **Inteligência Artificial**
-- Engenharia de Prompts para automação e produtividade
+- APIs REST com Java + Spring Boot  
+- Integração entre sistemas corporativos  
+- BI e dashboards com Metabase  
+- Inteligência Artificial aplicada  
+- Engenharia de Prompts  
 
 ---
 
@@ -93,12 +75,20 @@ Atualmente direcionando minha carreira para:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=18&center=true&vCenter=true&width=600&lines=Construindo+soluções+reais+com+tecnologia;Sempre+aprendendo+e+evoluindo" />
+
+</div>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🚀 Construindo soluções, integrando sistemas e evoluindo com tecnologia todos os dias.
+### 🚀 Construindo soluções reais com tecnologia todos os dias.
 
 </div>
